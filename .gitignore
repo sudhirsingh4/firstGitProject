@@ -1,0 +1,4 @@
+tempfile.txt
+*.try
+*.log
+*.log.[0-9]
